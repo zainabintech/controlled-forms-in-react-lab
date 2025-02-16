@@ -63,7 +63,7 @@ function Bookshelf() {
                             </div>
                         ))
                     ) : (
-                        <p className="emptyMessage">No books yet… start your collection! 📚</p>
+                        <p className="emptyMessage">No books yet…start your collection </p>
                     )}
                 </div>
             </div>
